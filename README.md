@@ -6,4 +6,4 @@
 ![Spring](https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white)
 
 [![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj={bon0057})](https://solved.ac/{bon0057})
+프로필](http://mazassumnida.wtf/api/generate_badge?boj=bon0057)](https://solved.ac/bon0057)
