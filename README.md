@@ -6,5 +6,6 @@
 
 <a href = "https://velog.io/@bon0057" target="_blank">![Velog](https://img.shields.io/badge/Velog-6DB33F.svg?&style=for-the-badge&logo=Velog&logoColor=white)
 
-[![Solved.ac
-프로필](http://mazassumnida.wtf/api/generate_badge?boj=bon0057)](https://solved.ac/bon0057)
+![YongBonJeon's github stats](https://github-readme-stats.vercel.app/api?username=YongBonJeon&show_icons=true)
+  
+[![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bon0057)](https://solved.ac/bon0057)
