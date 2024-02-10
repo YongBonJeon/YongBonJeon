@@ -18,9 +18,7 @@
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1.svg?&style=for-the-badge&logo=PostgreSQL&logoColor=white)
 
 ### contact with me
-<a href = "https://velog.io/@bon0057" target="_blank">![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white) 
+<a href = "https://velog.io/@bon0057" target="_blank">![Velog](https://img.shields.io/badge/Velog-20C997.svg?&style=for-the-badge&logo=Velog&logoColor=white)</a> <a href="mailto:bon6143@gmail.com">![gmail](https://img.shields.io/badge/gmail-EA4335.svg?&style=for-the-badge&logo=gmail&logoColor=white)</a> <a href = "https://www.linkedin.com/in/%EC%9A%A9%EB%B3%B8-%EC%A0%84-9184762b2/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)</a>
 
-
-<a href = "https://www.linkedin.com/in/%EC%9A%A9%EB%B3%B8-%EC%A0%84-9184762b2/" target="_blank">![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?&style=for-the-badge&logo=LinkedIn&logoColor=white)
 
 ![YongBonJeon's github stats](https://github-readme-stats.vercel.app/api?username=YongBonJeon) [![Solved.ac프로필](http://mazassumnida.wtf/api/generate_badge?boj=bon0057)](https://solved.ac/bon0057)
